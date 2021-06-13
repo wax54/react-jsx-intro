@@ -1,4 +1,3 @@
-
 // App
 // renders a div with instances of the other two components.
 
