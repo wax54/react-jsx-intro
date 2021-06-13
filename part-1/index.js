@@ -3,7 +3,6 @@
 
 const App = () => (
     <div>
-        <h1> "HELP!" </h1>
         <FirstComponent />
         <NamedComponent name="Number Two"/>
     </div>
